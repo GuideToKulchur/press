@@ -26,6 +26,7 @@ title: "Night In {a} Fair Republic"
 
 
 
+
 ##Hydeout Press + GTK Press are proud to announce "Night in a Fair Republic" by RA Washington, illustrated by Benji Diaz.
 
 - from the poem, **Letter To Lucien (from James)**
